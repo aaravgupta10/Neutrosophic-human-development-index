@@ -45,4 +45,4 @@ desktop.ini
 # Large raw external dumps (>15MB)
 *.xlsx
 *.zip
-GlobalFindexDatabase2025_downloaded.*
+# GlobalFindexDatabase2025_downloaded.csv is now tracked

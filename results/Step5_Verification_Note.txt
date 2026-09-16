@@ -1,0 +1,22 @@
+Step 5 verification note
+Date verified: 2026-07-23
+
+Protocol correction applied:
+1. EGDI components read from step3/EGOV_DATA_2024.csv (2024 publication edition).
+2. Step 4 raw component copy verified against UN DESA publication values.
+3. Formula HDIFN = HDI^(3/4) * I_digital^(1/4) replicated identically under both operators.
+
+Summary:
+- Published rank match: True
+- Published vs. full-triple multiplicative Spearman rho: 1.0000
+- Published vs. full-triple score-function Spearman rho: 1.0000
+- Full-triple multiplicative vs. Standard HDI Spearman rho: 0.9206
+- Morocco minus Indonesia published margin: 0.014030
+- Morocco minus Indonesia multiplicative margin: 0.002565
+- Rank invariance holds under both full-triple operators on the corrected file.
+
+Facade signed OSI - TII values:
+- Bangladesh: 0.087
+- Morocco: -0.321
+- Nepal: -0.317
+- Pakistan: 0.229

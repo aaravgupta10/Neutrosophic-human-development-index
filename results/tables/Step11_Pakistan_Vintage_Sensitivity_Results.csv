@@ -1,0 +1,8 @@
+Metric / Quantity,Upper Bound (Carry-Forward 2020),Lower Bound (Nowcast 57% Trial),Lower Bound (Nowcast 57.3% ITU Release),Trial Target (Memo),Status / Invariance
+Pakistan Internet Penetration,18.935%,57.000%,57.300%,57%,Nowcast baseline
+Facade Ratio (R_facade),5.281,1.754,1.745,1.754,Reproduced to 3 d.p.
+Stranded Capacity (Phi),0.4126,0.2189,0.2173,0.2189,Reproduced to 3 d.p.
+Intersection Criterion Trio (Top 4 R & Top 4 Phi),"Bangladesh, Nepal, Pakistan","Bangladesh, Nepal, Pakistan","Bangladesh, Nepal, Pakistan","{Bangladesh, Nepal, Pakistan}",INVARIANT (Exact match at both bounds)
+Phi Margin (Pakistan over Burkina Faso),0.1969,0.0032,0.0016,0.003,Reproduced (0.003 to 3 d.p.)
+Pakistan Composite HDI-N Score,0.316,0.363,0.363,0.363,Reproduced to 3 d.p.
+Pakistan Composite HDI-N Rank,Rank 18,Rank 18,Rank 18,Rank 18 Invariant,INVARIANT (Nepal 0.418 > Pakistan 0.363 > Burkina Faso 0.272)

@@ -1,0 +1,4 @@
+Operator A,Operator B,Spearman rank corr.
+geometric,arithmetic,0.9789473684210527
+geometric,ces_rho-1,0.9929824561403509
+arithmetic,ces_rho-1,0.9649122807017543

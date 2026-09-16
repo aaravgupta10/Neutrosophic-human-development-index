@@ -1,0 +1,21 @@
+iso3,country,region,internet_pen,internet_pen_year,broadband_per100,broadband_per100_year,hitech_exports_pct,hitech_exports_pct_year,egdi_2024
+ISL,Iceland,North,97.95,2023,37.42,2023,43.42,2023.0,0.967
+NOR,Norway,North,99.0,2023,45.44,2023,25.67,2023.0,0.932
+NLD,Netherlands,North,97.01,2023,43.26,2023,24.51,2023.0,0.954
+DNK,Denmark,North,98.78,2023,44.04,2023,17.13,2023.0,0.985
+CHE,Switzerland,North,97.34,2023,46.84,2023,29.33,2023.0,0.9
+CAN,Canada,North,94.15,2023,42.52,2023,16.37,2023.0,0.845
+KOR,South Korea,North,97.42,2023,46.57,2023,30.28,2023.0,0.968
+FRA,France,North,86.84,2023,48.67,2023,22.38,2023.0,0.874
+FIN,Finland,North,93.51,2023,35.33,2023,9.71,2023.0,0.957
+DEU,Germany,North,92.48,2023,45.38,2023,17.78,2023.0,0.938
+AUS,Australia,North,96.12,2023,36.63,2023,25.26,2023.0,0.958
+JPN,Japan,North,85.01,2023,38.63,2023,17.1,2023.0,0.935
+CHN,China,South,90.6,2023,44.73,2023,26.57,2023.0,0.872
+IDN,Indonesia,South,69.21,2023,4.82,2023,9.08,2023.0,0.799
+MAR,Morocco,South,91.0,2023,7.02,2023,5.43,2023.0,0.684
+PAK,Pakistan,South,18.93,2020,1.36,2023,1.9,2023.0,0.51
+BFA,Burkina Faso,South,25.36,2023,0.46,2023,3.8,2023.0,0.289
+PHL,Philippines,South,77.87,2023,6.54,2023,63.98,2023.0,0.762
+NPL,Nepal,South,45.81,2023,10.68,2023,0.62,2022.0,0.578
+BGD,Bangladesh,South,44.5,2023,7.89,2023,,,0.657
